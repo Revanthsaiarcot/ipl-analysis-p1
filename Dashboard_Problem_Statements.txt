@@ -1,0 +1,31 @@
+🔹 Dashboard 1: Team Performance
+
+Which team has the highest wins across seasons?
+
+Wins by venue
+
+Season-wise team dominance
+
+🔹 Dashboard 2: Match Insights
+
+Average runs per match
+
+Matches with “No Result”
+
+Home vs away performance
+
+🔹 Dashboard 3: Player & Ball Analytics
+
+Runs distribution per match
+
+Wickets per match
+
+High-scoring matches
+
+🔹 Dashboard 4: Business KPIs
+
+Top 5 teams by win percentage
+
+Match outcome predictability
+
+Impact of venue on results
