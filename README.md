@@ -40,4 +40,14 @@ The project uses three IPL datasets:
 ---
 
 ## 🏗️ Project Workflow (Data Engineering Pipeline)
-
+Raw CSV Data
+↓
+Data Cleaning & Preprocessing (Python - Pandas)
+↓
+Database Storage (MySQL Schema)
+↓
+Exploratory Data Analysis (EDA)
+↓
+Data Visualization & Dashboard Insights
+↓
+Business KPIs & Conclusions
