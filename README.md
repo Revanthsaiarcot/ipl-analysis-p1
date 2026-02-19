@@ -1,11 +1,11 @@
-# 🏏 IPL Analysis - P1 (Data Engineering & Sports Analytics)
+#  IPL Analysis - P1 (Data Engineering & Sports Analytics)
 
-## 📌 Project Description
+##  Project Description
 This project analyzes Indian Premier League (IPL) match data to uncover key insights related to team performance, match trends, player analytics, and business KPIs. The project demonstrates an end-to-end data engineering and analytics workflow using Python, MySQL, and Data Visualization.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Uncover trends in team and player performances
 - Analyze match-level and ball-by-ball data
 - Provide insights for strategic cricketing decisions
@@ -14,7 +14,7 @@ This project analyzes Indian Premier League (IPL) match data to uncover key insi
 
 ---
 
-## 🏷️ Project Details
+##  Project Details
 - **Project Name:** IPL Analysis - P1  
 - **Category:** Data Engineering  
 - **Project Type:** Sports Analytics  
@@ -22,7 +22,7 @@ This project analyzes Indian Premier League (IPL) match data to uncover key insi
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 - Python (Pandas, NumPy)
 - Data Visualization (Matplotlib, Seaborn)
 - MySQL (Database & SQL Queries)
@@ -31,7 +31,7 @@ This project analyzes Indian Premier League (IPL) match data to uncover key insi
 
 ---
 
-## 📂 Dataset Used
+##  Dataset Used
 The project uses three IPL datasets:
 - `matches.csv` – Match details (season, teams, venue, winner, date)
 - `deliveries.csv` – Ball-by-ball data (runs, wickets, innings)
@@ -39,7 +39,7 @@ The project uses three IPL datasets:
 
 ---
 
-## 🏗️ Project Workflow (Data Engineering Pipeline)
+##  Project Workflow (Data Engineering Pipeline)
 - Raw CSV Data
 
 - Data Cleaning & Preprocessing (Python - Pandas)
