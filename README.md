@@ -18,7 +18,7 @@ This project analyzes Indian Premier League (IPL) match data to uncover key insi
 - **Project Name:** IPL Analysis - P1  
 - **Category:** Data Engineering  
 - **Project Type:** Sports Analytics  
-- **Training Weeks:** Week 2 & Week 3  
+- **Training Days:** Two Days  
 
 ---
 
