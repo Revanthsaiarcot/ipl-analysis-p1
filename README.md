@@ -51,3 +51,38 @@ The project uses three IPL datasets:
 - Data Visualization & Dashboard Insights
 
 - Business KPIs & Conclusions
+
+---
+
+##  Dashboard Modules & Analysis
+
+### 🔹 Dashboard 1: Team Performance
+- Team with the highest wins across seasons
+- Wins by venue analysis
+- Season-wise team dominance
+
+### 🔹 Dashboard 2: Match Insights
+- Average runs per match
+- Matches with "No Result"
+- Home vs Away performance comparison
+
+### 🔹 Dashboard 3: Player & Ball Analytics
+- Runs distribution per match
+- Wickets per match
+- High-scoring matches (200+ runs)
+
+### 🔹 Dashboard 4: Business KPIs
+- Top 5 teams by win percentage
+- Match outcome predictability
+- Impact of venue on match results
+
+---
+
+##  Visualizations Included
+- Bar Charts (Team Wins, Win Percentage, Home vs Away Wins)
+- Count Plots (Venue vs Team Wins, Wickets per match)
+- Line Charts (Season-wise Trends)
+- Histograms (Runs Distribution)
+- Boxplots (Match Score Analysis)
+- Scatter Plots (High-Scoring Matches)
+- Donut Charts (Match Result Analysis)
